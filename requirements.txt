@@ -1,0 +1,6 @@
+asyncio
+beautifulsoup4
+python-telegram-bot
+pytz
+requests
+python-telegram-bot[job-queue]
