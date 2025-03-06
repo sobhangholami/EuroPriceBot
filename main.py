@@ -10,7 +10,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Use an environment variable for security
-BOT_TOKEN: Final = "7511673565:AAGZnohzoxAgJDulJKWMiaqxjs1AZ-_Fn2c"
+BOT_TOKEN: Final = 'YOUR_BOT_TOKEN_HERE'
 
 # Enable logging
 logging.basicConfig(
